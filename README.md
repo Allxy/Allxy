@@ -20,7 +20,10 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="22">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux" height="22">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="22">
+<img src="https://github.com/user-attachments/assets/44068bed-04b5-41dd-953f-b60abb17bae1" height="22" alt="react query">
+<img src="https://github.com/user-attachments/assets/1f25d9cb-e34f-473b-9e6b-0e53b66b8408" height="22" alt="react">
 </p>
+
 
 ### Социальные сети
 
